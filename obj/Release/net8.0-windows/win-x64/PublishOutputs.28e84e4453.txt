@@ -1,0 +1,8 @@
+C:\Users\maks\Downloads\ClientManager_Material\publish\ClientManagerMaterial.pdb
+C:\Users\maks\Downloads\ClientManager_Material\publish\D3DCompiler_47_cor3.dll
+C:\Users\maks\Downloads\ClientManager_Material\publish\PenImc_cor3.dll
+C:\Users\maks\Downloads\ClientManager_Material\publish\PresentationNative_cor3.dll
+C:\Users\maks\Downloads\ClientManager_Material\publish\vcruntime140_cor3.dll
+C:\Users\maks\Downloads\ClientManager_Material\publish\wpfgfx_cor3.dll
+C:\Users\maks\Downloads\ClientManager_Material\publish\SQLite.Interop.dll
+C:\Users\maks\Downloads\ClientManager_Material\publish\ClientManagerMaterial.exe

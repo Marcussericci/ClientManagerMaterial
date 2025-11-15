@@ -1,0 +1,10 @@
+C:\Users\maks\Downloads\ClientManager_Material\publish_simple\ClientManagerMaterial.exe
+C:\Users\maks\Downloads\ClientManager_Material\publish_simple\ClientManagerMaterial.dll
+C:\Users\maks\Downloads\ClientManager_Material\publish_simple\ClientManagerMaterial.deps.json
+C:\Users\maks\Downloads\ClientManager_Material\publish_simple\ClientManagerMaterial.runtimeconfig.json
+C:\Users\maks\Downloads\ClientManager_Material\publish_simple\ClientManagerMaterial.pdb
+C:\Users\maks\Downloads\ClientManager_Material\publish_simple\System.Data.SQLite.dll
+C:\Users\maks\Downloads\ClientManager_Material\publish_simple\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\maks\Downloads\ClientManager_Material\publish_simple\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\maks\Downloads\ClientManager_Material\publish_simple\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\maks\Downloads\ClientManager_Material\publish_simple\runtimes\win-x86\native\SQLite.Interop.dll

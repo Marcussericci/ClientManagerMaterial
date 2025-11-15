@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maks\\Downloads\\ClientManager_Material\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{826F8D15-3902-088E-764F-4CE5C5FBC9B7}|ClientManagerMaterial.csproj|c:\\users\\maks\\downloads\\clientmanager_material\\clientmanagermaterial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{826F8D15-3902-088E-764F-4CE5C5FBC9B7}|ClientManagerMaterial.csproj|solutionrelative:clientmanagermaterial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826F8D15-3902-088E-764F-4CE5C5FBC9B7}|ClientManagerMaterial.csproj|c:\\users\\maks\\downloads\\clientmanager_material\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826F8D15-3902-088E-764F-4CE5C5FBC9B7}|ClientManagerMaterial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientManagerMaterial",
+              "DocumentMoniker": "C:\\Users\\maks\\Downloads\\ClientManager_Material\\ClientManagerMaterial.csproj",
+              "RelativeDocumentMoniker": "ClientManagerMaterial.csproj",
+              "ToolTip": "C:\\Users\\maks\\Downloads\\ClientManager_Material\\ClientManagerMaterial.csproj",
+              "RelativeToolTip": "ClientManagerMaterial.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T01:41:16.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maks\\Downloads\\ClientManager_Material\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maks\\Downloads\\ClientManager_Material\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T01:41:02.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
